@@ -5,7 +5,7 @@ namespace Ncfe.CodeTest.DataAccess
 {
     public class FailoverLearnerDataAccess : ILoadLearnerService
     {
-        public LoadLearnerResponse LoadLearner(int learnerId)
+        public LoadLearnerkkjgbjlResponse LoadLearner(int learnerId)
         {
             return new LoadLearnerResponse();               
         }
